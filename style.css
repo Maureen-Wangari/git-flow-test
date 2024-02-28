@@ -34,8 +34,11 @@ max-width: 60%;
     border-radius: 20px;
 }
 b{
-    color: rgb(233, 149, 149);
+    color: whitesmoke;
 }
 h2{
-    color: rgb(228, 137, 137);
+    color: whitesmoke;
+}
+h3{
+    color: whitesmoke;
 }
