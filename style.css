@@ -1,0 +1,25 @@
+ #image{
+    width:auto;
+    height: 40px;
+} 
+.container{
+display: flex;
+border: 0 auto;
+background-color: white;
+border-radius: 20px;
+margin: 5%;
+padding: 2px;
+
+}
+p{
+    font-size: 15px;
+    color: darkblue;
+}
+button{
+    background-color: blue;
+    color: antiquewhite;
+    border-radius: 30px;
+    padding: 3px;
+    width: 10%;
+    
+}
